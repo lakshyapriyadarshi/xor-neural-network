@@ -1,6 +1,6 @@
 ''' 
 	Project - Neural network that implements XOR Gate
-	Lakshya Priyadarshi : official.18lakshya@gmail.com		
+	Lakshya Priyadarshi : lakshyapriyadarshi1@gmail.com		
 	B.Tech 2nd Semester, Computer Science & Engineering
 
 	A multi-layered neural network that models the XOR logic gate
