@@ -16,7 +16,7 @@ import sys, scipy, numpy as np
 input_vector_x=np.array([[1,0,1,0],[1,0,1,1],[0,1,0,1]])
 
 # Boolean functional value on corresponding binary inputs
-output_vector_y=np.array([[1],[1],[0]])
+output_vector_y=np.array([[0],[1],[0]])
 
 # Define sigmoid activation function to upscale threshold for input x
 def sigmoid_activation_function(x):
